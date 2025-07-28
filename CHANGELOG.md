@@ -1,9 +1,17 @@
-# Change Log
+# Changelog
 
-All notable changes to the "quick-brackets" extension will be documented in this file.
+All notable changes to this project will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [1.0.1] - 2025-07-28
 
-- Initial release
+### Added
+- Official extension icon.
+- Changelog doccumentation.
+
+## [1.0.0] - 2025-07-28
+### Added
+- Initial release of Quick Brackets.
+- Core feature: Smart `{}` snippet insertion on right-arrow key press for control flow statements, function declarations, and constructors.
