@@ -1,9 +1,13 @@
 {
-	"name": "quick-brackets",
+	"name": "quickbrackets",
 	"displayName": "Quick Brackets",
 	"description": "Inserts an open bracket when pressing right arrow before a closing parenthesis.",
 	"publisher": "ioshuauau",
-	"version": "0.0.1",
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/guiioshua/quickbrackets.git"
+  	},
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.80.0"
 	},
