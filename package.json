@@ -3,6 +3,7 @@
 	"displayName": "Quick Brackets",
 	"description": "Inserts an open bracket when pressing right arrow before a closing parenthesis.",
 	"publisher": "ioshuauau",
+	"icon": "assets/icon.png",
 	"repository": {
     "type": "git",
     "url": "https://github.com/guiioshua/quickbrackets.git"
